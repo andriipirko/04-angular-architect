@@ -1,0 +1,23 @@
+.todoapp {
+    border: 1px solid black;
+    width: 600px;
+    max-width: 600px;
+    overflow-x: auto;
+    padding-bottom: 20px;
+    position: fixed;
+    left: 50%;
+    top:15%;
+    margin-left: -300px;
+}
+
+.new-todo-but, .destroy, .search_button, .search_clear_button {
+    border-radius: 10px;
+}
+
+.new-todo, .filter-field, li, .footer {
+    margin-left: 200px;
+}
+
+#main_title {
+    text-align: center;
+}
